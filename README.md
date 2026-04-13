@@ -20,6 +20,10 @@ The model performs:
 
 ---
 
+## Example prediction
+### 
+![Prediction-ex](images/prediction_example.png)
+
 ## 📊 Results & Visualizations
 
 ### 🔹 Training Loss
